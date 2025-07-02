@@ -18,7 +18,7 @@ Catch the falling emoji emojis before they hit the ground — keep your hearts, 
 
 ## 🎯 Gameplay
 
-- 🧸 Emoji  fall from the top every 4 seconds  
+- 🧸 Emojis  falls from the top every 4 seconds  
 - 🧺 Use your basket to catch them  
 - 💖 You have 5 hearts (lives)  
 - 😵 Miss one = lose a heart  
