@@ -1,7 +1,7 @@
-# 🎮 CLUTTERS 🧺💫
+# 🎮 CLUTTERS 🧺💫🎮
 
 A fullscreen emoji-catching game made with Python & Pygame.  
-Catch the falling emoji kids before they hit the ground — keep your hearts, reach the goal, and win! ✨
+Catch the falling emoji emojis before they hit the ground — keep your hearts, reach the goal, and win! ✨
 
 ---
 
@@ -18,7 +18,7 @@ Catch the falling emoji kids before they hit the ground — keep your hearts, re
 
 ## 🎯 Gameplay
 
-- 🧸 Emoji kids fall from the top every 4 seconds  
+- 🧸 Emoji  fall from the top every 4 seconds  
 - 🧺 Use your basket to catch them  
 - 💖 You have 5 hearts (lives)  
 - 😵 Miss one = lose a heart  
